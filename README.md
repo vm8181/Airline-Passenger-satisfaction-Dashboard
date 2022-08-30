@@ -38,13 +38,15 @@ Toggle buttons
 
 Data analysis expressions
 
-Time Intelligence Fucntions
+Slicers
 
 Filters
 
 calculated columns
 
 Measures
+
+Graphs and custom visuals
 
 ## Tool Used:
 
