@@ -1,11 +1,10 @@
 # Airline-Passenger-satisfaction-Dashboard
- ![image](https://user-images.githubusercontent.com/92555446/187439619-3795ef85-9878-4e91-9b22-5fe35c2aae7f.md)
 
 ## Introduction:
-
+The dashboard is created using BI tool Power BI. The dashboard represents the analysis of how many customers are satisfied with services provided by airline and distributed the analysis in the different parts by gender, class, ages and so on. I have created two different views on the same page by using toggle button by which you can change the view and site of information.
 
 ## Requirement:
-This dataset contains an airline passenger satisfaction survey. What factors are highly correlated to a satisfied (or dissatisfied) passenger? Can you predict passenger satisfaction?
+This dataset contains an airline passenger satisfaction survey. What factors are highly correlated to a satisfied (or dissatisfied) passenger? 
 
 ## Steps taken:
 
@@ -48,6 +47,7 @@ calculated columns
 Measures
 
 ## Tool Used:
+
 Power Query
 
 Power BI Desktop
